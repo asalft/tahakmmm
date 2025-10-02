@@ -1,0 +1,9 @@
+future>=0.16.0
+certifi
+tornado>=5.1
+cryptography
+telebot
+python-telegram-bot
+telethon==1.28.5
+python-telegram-bot==20.7
+pytz==2023.3
