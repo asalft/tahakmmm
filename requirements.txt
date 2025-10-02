@@ -6,4 +6,5 @@ telebot
 python-telegram-bot
 telethon==1.28.5
 python-telegram-bot==20.7
+imghdr
 pytz==2023.3
